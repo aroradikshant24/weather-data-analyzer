@@ -1,5 +1,3 @@
-# weather-data-analyzer
-Weather Data Analyzer Project
 # Weather Data Analyzer
 
 This project analyzes 30 days of weather data including:
